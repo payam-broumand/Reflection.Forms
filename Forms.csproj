@@ -78,5 +78,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MetaData\MetaData.csproj">
+      <Project>{2e8ea89e-40de-4f8c-911d-6fbda31f4986}</Project>
+      <Name>MetaData</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Repository\Repository.csproj">
+      <Project>{69e57fec-d3e2-4e9c-b163-059e4ad782ee}</Project>
+      <Name>Repository</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,4 +1,6 @@
-﻿using System;
+﻿using MetaData;
+using Repository;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +17,14 @@ namespace Forms
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void btnLoadMetaData_Click(object sender, EventArgs e)
+        {
+            LoadMetaData metaData = new LoadMetaData<Person>();
+            txtMetaData.Text = metaData.LoadGeneralTypeInfo();
+            txtMetaData.Text += metaData.LoadProperties();
+            txtMetaData.Text += metaData.LoadMethods();
         }
     }
 }
