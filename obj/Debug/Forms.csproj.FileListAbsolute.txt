@@ -13,3 +13,4 @@ C:\Users\Payam\Desktop\Reflection2\Forms\bin\Debug\Repository.dll
 C:\Users\Payam\Desktop\Reflection2\Forms\bin\Debug\MetaData.pdb
 C:\Users\Payam\Desktop\Reflection2\Forms\bin\Debug\Repository.pdb
 C:\Users\Payam\Desktop\Reflection2\Forms\obj\Debug\Forms.csproj.CopyComplete
+C:\Users\Payam\Desktop\Reflection2\Forms\obj\Debug\Forms.Form2.resources
