@@ -1,0 +1,10 @@
+C:\Users\Payam\Desktop\Reflection2\Forms\bin\Debug\Forms.exe.config
+C:\Users\Payam\Desktop\Reflection2\Forms\bin\Debug\Forms.exe
+C:\Users\Payam\Desktop\Reflection2\Forms\bin\Debug\Forms.pdb
+C:\Users\Payam\Desktop\Reflection2\Forms\obj\Debug\Forms.csprojAssemblyReference.cache
+C:\Users\Payam\Desktop\Reflection2\Forms\obj\Debug\Forms.Form1.resources
+C:\Users\Payam\Desktop\Reflection2\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\Payam\Desktop\Reflection2\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\Payam\Desktop\Reflection2\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Payam\Desktop\Reflection2\Forms\obj\Debug\Forms.exe
+C:\Users\Payam\Desktop\Reflection2\Forms\obj\Debug\Forms.pdb
