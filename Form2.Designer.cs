@@ -81,6 +81,7 @@
             this.btnCreateInstance.TabIndex = 0;
             this.btnCreateInstance.Text = "Create Instance";
             this.btnCreateInstance.UseVisualStyleBackColor = true;
+            this.btnCreateInstance.Click += new System.EventHandler(this.btnCreateInstance_Click);
             // 
             // Form2
             // 
